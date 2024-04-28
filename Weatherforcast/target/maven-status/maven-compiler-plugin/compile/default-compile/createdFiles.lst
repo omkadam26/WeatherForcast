@@ -1,0 +1,7 @@
+com\example\demo\WeatherController.class
+com\example\demo\WeatherforcastApplication.class
+com\example\demo\WeatherService.class
+com\example\demo\WeatherServiceImpl.class
+com\example\demo\WeatherHourlyForecast.class
+com\example\demo\ServletInitializer.class
+com\example\demo\WeatherForecastSummary.class
